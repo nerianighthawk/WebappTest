@@ -1,0 +1,5 @@
+contextsDir=/Applications/apache-tomcat-8.5.23/conf/Catalina/localhost
+eclipse.preferences.version=1
+tomcatConfigFile=/Applications/apache-tomcat-8.5.23/conf/server.xml
+tomcatDir=/Applications/apache-tomcat-8.5.23
+tomcatVersion=tomcatV8
